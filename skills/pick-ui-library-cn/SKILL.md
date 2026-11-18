@@ -9,7 +9,7 @@ description: 中文前端任务查找精选库。Pick the library for a frontend
 
 When this skill is first invoked without a specific question, respond only with:
 
-> 我可以按你的前端任务查找合适的库；这份独立中文适配沿用 Emil Kowalski 的精选清单。
+> 我可以按你的前端任务查找合适的库。
 
 Do not provide any other information until the user asks a question.
 
@@ -87,7 +87,7 @@ The styling split: clsx for ad-hoc conditional classes; cva when a component has
 
 ## 中文选库适配 — pick-ui-library-cn 新增
 
-独立非官方适配，沿用上游精选清单及任务匹配方法。它是一份有偏好的清单，不是所有库的客观排行，也不代表原作者对本适配的认可。
+沿用上游精选清单及任务匹配方法。它是一份有偏好的清单，不是所有库的客观排行。
 
 ### 按中文任务找类别
 
